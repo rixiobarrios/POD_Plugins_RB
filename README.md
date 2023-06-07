@@ -119,8 +119,6 @@ e.g. DMC_DEV
 - Step 39 - Grab generated link
 e.g. Application "mypodplugin" started and available at "digital-manufacturing-cloud-internal-tenants-dmc-az-***********.******.eu20.hana.ondemand.com"
 
-"digital-manufacturing-cloud-internal-tenants-dmc-az-consa83b3d0.cfapps.eu20.hana.ondemand.com"
-
 - Step 40 - Press any key to close process after finished
 
 - Step 41 - Add to servide registry app in DMC (Digital Manufacturing Cloud)
@@ -155,10 +153,5 @@ e.g. /mypodplugin
 
 - Step 53 - Custom plugin is enabled and vaialable in the DMC and can be used in a POD (Production Operation Dashboard)
 
-- Step 54 - Select DEFAULT_ORDER_POD
-
-- Step 55 - Select Details
-
-- Step 56 - Search for our newly created plugin
-e.g. mypodplugin
+ERROR: Failed to load plugin
 

@@ -1,0 +1,14 @@
+{
+  "welcomeFile": "/pod_plugins_rb/index.html",
+  "authenticationMethod": "none",
+  "logout": {
+    "logoutEndpoint": "/do/logout"
+  },
+  "routes": [
+    {
+      "source": "^/pod_plugins_rb/(.*)$",
+      "target": "$1",
+      "localDir": "webapp"
+    }
+  ]
+}
